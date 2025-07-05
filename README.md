@@ -3,7 +3,7 @@
 ### Hi, I'm Shawn!
 
 ## 💫 About Me:
-I'm an Automation Test Engineer with a strong passion for ensuring software quality, actively expanding my expertise in Web, API, and performance testing, and test automation. My curiosity also extends to front-end development, and I enjoy photography in my spare time. 😄
+👨🏻‍💻 An Automation Test Engineer with a strong passion for ensuring software quality, actively expanding my expertise in Web, API, and performance testing, and test automation. My curiosity also extends to front-end development, and I enjoy photography in my spare time. 😄
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShengYuan-Shawn&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
