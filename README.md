@@ -27,9 +27,11 @@
 <h2 align="center"> 📊 GitHub Stats ⚡ </h2>
 <br/>
 <div align="center">
-    <img width=400 src="https://github-readme-stats.vercel.app/api?username=ShengYuan-Shawn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-    <img width=400 src="https://nirzak-streak-stats.vercel.app/?user=ShengYuan-Shawn&theme=tokyonight&hide_border=false" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=ShengYuan-Shawn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
     <br/>
     <br/>
-    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShengYuan-Shawn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img width=390 src="https://nirzak-streak-stats.vercel.app/?user=ShengYuan-Shawn&theme=tokyonight&hide_border=false" />
+    <br/>
+    <br/>
+    <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShengYuan-Shawn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
