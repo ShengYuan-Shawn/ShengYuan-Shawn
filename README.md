@@ -8,7 +8,6 @@
     Driven automation test engineer who loves pushing the boudaries of quality 👨🏻‍💻
 </h4>
 <br/>
-<br/>
 <div align="center">
     My journey extends to front-end development, giving me a unique perspective on testing and debugging. Always looking for ways to make software better, from the first line of code to the final user interaction.
 </div>
