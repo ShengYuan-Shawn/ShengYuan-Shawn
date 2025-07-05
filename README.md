@@ -4,18 +4,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shawn!;" />
 </h1>
 
-<h3 align="center">Driven automation test engineer who loves pushing the boudaries of quality 👨🏻‍💻</h3>
+<h4 align="center">Driven automation test engineer who loves pushing the boudaries of quality 👨🏻‍💻
+    <br/> My journey extends to front-end development, giving me a unique perspective on building intuitive and robust UIs. Always looking for ways to make software better, from the first line of code to the final user interaction.
+</h4>
 
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,dart,js,ts,bash" />
+    <img src="https://skillicons.dev/icons?i=java,py,dart,js,ts,html,css,sass,bash,gherkin" />
+    <img src="https://skillicons.dev/icons?i=selenium,flutter" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,grafana" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio" />
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShengYuan-Shawn&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShengYuan-Shawn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
