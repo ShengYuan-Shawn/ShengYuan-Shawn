@@ -7,7 +7,6 @@
 <h4 align="center">
     Driven automation test engineer who loves pushing the boudaries of quality 👨🏻‍💻
 </h4>
-<br/>
 <div align="center">
     My journey extends to front-end development, giving me a unique perspective on testing and debugging. Always looking for ways to make software better, from the first line of code to the final user interaction.
 </div>
@@ -22,6 +21,8 @@
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,grafana" />
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio" />
 </div>
+
+<hr/>
 
 <h2 align="center"> 📊 GitHub Stats ⚡ </h2>
 <br/>
